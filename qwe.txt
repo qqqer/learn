@@ -1,0 +1,4 @@
+b.name=×Ö¶ÎÃûselect a.name as TableName,   b.name as ColumnsName
+from sysobjects a, syscolumns b where b.name='trantype' and a.id=b.id
+
+b.name=×Ö¶ÎÃû
